@@ -7,4 +7,8 @@
 ```bash
 $> git remote add origin https://[YOUR_LOGIN_NAME]:[TOKEN_VALUE]@github.com/pym7857/Dacon
 ```
-4. git pull origin main 
+### pull
+git pull origin main 
+
+### push
+git push --set-upstream origin master
