@@ -1,7 +1,8 @@
 # Dacon
 
 🙋‍♂️[구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description) <br>
-🙋‍♀️[토론은 issue탭에서~](https://github.com/pym7857/Dacon/issues)
+🙋‍♀️[토론은 issue탭에서~](https://github.com/pym7857/Dacon/issues) <br>
+🧛‍♂️반드시 각자 branch에 코드 작성 후, Pull request 요청 ⚠이때, 리뷰어는 멤버 모두 지정
 
 <br>
 
