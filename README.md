@@ -6,6 +6,10 @@
 
 <br>
 
+✔ 시각화 라이브러리는 Plotly 권장 ~~개틀딱 matplotlib, seaborn 사용 ㄴㄴ~~
+
+<br>
+
 ## private 레포에 git pull/push 하는법 😀
 1. Personal Access Token 생성하기 [생성하는 법👈](https://calvinjmkim.tistory.com/19)
 2. Token value 복사
