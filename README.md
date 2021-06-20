@@ -6,7 +6,7 @@
 
 <br>
 
-✔ 시각화 라이브러리는 Plotly 권장 ~~개틀딱 matplotlib, seaborn 사용 ㄴㄴ~~
+✔ 시각화 라이브러리는 Plotly 권장!! ~~씹 틀딱 matplotlib, seaborn 사용 ㄴㄴ~~
 
 <br>
 
