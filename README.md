@@ -7,7 +7,7 @@
 <br>
 
 ✔ 시각화 라이브러리는 대화형 라이브러리 `Plotly` 권장!! <br>
-~~씹 틀딱 matplotlib, seaborn 사용 ㄴㄴ~~ <br>
+👉👉~~씹 틀딱 matplotlib, seaborn 사용 ㄴㄴ~~ <br>
 ✔ `Plotly` 사용 위해서는 `nbformat` 설치 필요
 
 <br>
