@@ -4,8 +4,8 @@
 🙋‍♀️토론은 [issue탭](https://github.com/pym7857/Dacon/issues)에서~<br>
 🧛‍♂️반드시 각자 branch에 코드 작성 후, Pull request 요청 ⚠***이때, 리뷰어는 멤버 모두 지정*** <br>
 💥[깃 commit 컨벤션](https://doublesprogramming.tistory.com/256) 지킵시다. <br><br>
-⚠[부정 제출 및 치팅 행위에 관하여](https://dacon.io/more/notice/13) <br>
-⚠[대회 규칙 및 규정](https://dacon.io/more/notice/64) <br>
+⚠[필독][부정 제출 및 치팅 행위에 관하여](https://dacon.io/more/notice/13) <br>
+⚠[필독][대회 규칙 및 규정](https://dacon.io/more/notice/64) <br>
 
 <br>
 
